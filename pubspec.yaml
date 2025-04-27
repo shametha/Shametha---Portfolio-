@@ -1,0 +1,26 @@
+name: shametha_portfolio
+description: "Shametha's Portfolio"
+publish_to: "none" 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_screenutil: ^5.5.4 
+  animated_text_kit: ^4.2.2
+  font_awesome_flutter: ^10.5.1
+  animated_background: ^2.0.0
+  url_launcher: ^6.0.10
+cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/images/
