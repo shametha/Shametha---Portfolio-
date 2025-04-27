@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/shamethakg/Documents/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shamethakg/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shamethakg/Documents/shametha_portfolio/android/app/.cxx/Debug/2r293v6v/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shamethakg/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shamethakg/Documents/shametha_portfolio/android/app/.cxx/Debug/2r293v6v/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
